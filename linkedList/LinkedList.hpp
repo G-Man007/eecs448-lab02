@@ -30,9 +30,10 @@ template <typename T>
 int LinkedList<T>::size() const
 {
 	/** TODO 
-		Fix this method
+		This is fixed.
 	*/
-	return(0);
+
+	return(m_size);
 }
 
 template <typename T>
